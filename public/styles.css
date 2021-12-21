@@ -1,0 +1,28 @@
+#addForm{
+    margin-left: 200px;
+    margin-right: 400px;
+}
+#addTitle{
+    margin-left: 600px;
+   
+}
+#submitBtn{
+    margin-top: 50px;
+}
+
+#pImg{
+    height: 60px;
+    width: 60px;
+}
+
+
+#authMessage
+{
+    color: red;
+}
+
+#noData
+{
+    color: red;
+    margin-left: 400px;
+}
