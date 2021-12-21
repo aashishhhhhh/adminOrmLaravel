@@ -12,7 +12,7 @@ use Illuminate\Support\Facades\Hash;
 
 class userController extends Controller
 {
-
+// Hello
     public function logout()
     {
         session()->forget('user');
